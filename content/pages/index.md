@@ -5,8 +5,16 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Craig'
-    content: |
-      You have landed on my website way to go
+    content: >
+      I am a Website Designer from Newcastle upon Tyne. I have knowlage in
+      Website Design & Development, Hardware & Software Maintaince, Database
+      Management, Cyber Secuirty. I am currently working on my own Website
+      Design and Development company [Website By
+      Design](https://websitebydesign.co.uk).
+
+
+      I have worked on demanding web projects in the past and have a lot of
+      expirence when it comes to designing and managing a website.
   - section_id: about
     type: section_content
     title: About
