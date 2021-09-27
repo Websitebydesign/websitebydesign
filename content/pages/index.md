@@ -18,8 +18,10 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: |
-      Some of the projects I have worked on are
+    content: >
+      Some of the projects I have worked on are Website By Design,
+      HackingVision, DriveWithUs, ScrapCarFirm, AJSHydroponics amoung other
+      projects.
     actions:
       - label: Contact Me
         url: /contact
